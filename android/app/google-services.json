@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807439438124",
+    "project_id": "education-app-b5e14",
+    "storage_bucket": "education-app-b5e14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807439438124:android:153c96dd2bfc110374dc89",
+        "android_client_info": {
+          "package_name": "com.vishu.education_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807439438124-q3j3ssc159r5nue7lfr0h0qvilpjj1sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk_d6ySkK2nlTN1Ut18XOY0-KkNGLo8XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807439438124-q3j3ssc159r5nue7lfr0h0qvilpjj1sd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
